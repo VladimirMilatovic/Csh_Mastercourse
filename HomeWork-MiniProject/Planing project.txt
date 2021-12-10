@@ -1,0 +1,16 @@
+Create console app that asks user for their name and age. If their name is Bob or Sue, address them as Professor. If the person is under 21, recommend they wait X years to start this class.
+
+1. Ask for name;
+2. Ask for age;
+3. Check the name
+3.1 name is Bob or Sue
+3.1.1 Welcome them as Professor
+3.1.2 End program.
+3.2 Other names
+3.2.1 Check if age les than 21
+3.2.1.1 Age les than 21
+3.2.1.1.1 Address by name and infor to wait for 21-age years to start with class.
+3.2.1.1.2 End program
+3.2.1.2 Age is 21 or more
+3.2.1.2.1 Address as student and welcom to the class.
+3.2.1.2.2 End program
