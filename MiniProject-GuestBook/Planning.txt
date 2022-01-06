@@ -1,0 +1,23 @@
+﻿Ask the user for their name and how many are in their party. 
+Keep track of how many people are at the party. 
+At the end, print out the guest list and the total number of guests.
+
+0. Option Menu
+0.1 Enter New Guest witn number of party members
+0.2 Print guest list
+0.3 Exit
+
+1.Enter New record
+1.1 Ask for guest name
+1.1.1 If Name is empty, ask for valid name
+1.2 Ask for party members count
+1.2.1 If value not valid number ask for new value
+1.2.2 If party count <= 0 Ask for valid number
+1.3 Ask to continue
+
+2.Print guests list
+2.1 Print all names in guest list
+2.2 Print Total number of gusts
+2.3 Messae "Pres any kea to continue"
+
+3. Exit from program
